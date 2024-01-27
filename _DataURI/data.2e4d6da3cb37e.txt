@@ -1,0 +1,1 @@
+chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/userscript.html?name=Immersive-Translate%253A-Web-Page%2526PDF-Translation.user.js&id=6943b1aa-13bb-4741-9308-633472fa455b
