@@ -3292,7 +3292,7 @@ table.regular td a {
 #navigation,
 #navigation-right {
     position: absolute;
-    top: 38px;
+    top: 60px;
     height: 30px
 }
 
@@ -3313,8 +3313,8 @@ table.regular td a {
 
 #logo {
     position: absolute;
-    top: 32px;
-    left: 50px;
+    top: 10px;
+    left: 570px;
     width: 210px;
     height: auto
 }
@@ -3338,6 +3338,28 @@ table.regular td a {
 #navigation-right {
     display: inline-block;
     right: 85px
+}
+
+#team-info {
+    display: inline-block;
+    left: 505px;
+    position: absolute;
+    top: 37px;
+    height: 30px;
+}
+
+#team-info ul {
+    position: relative;
+    list-style-type: none;
+    margin: 0;
+    padding: 0
+}
+
+#team-info li {
+    position: relative;
+    display: inline-block;
+    margin: 0 12px;
+    font-size: 14px
 }
 
 .nav-links {
@@ -3529,7 +3551,7 @@ table.regular td a {
     font: 12px/18px D-DIN-Bold, Arial, Verdana, sans-serif;
     font-weight: 400;
     font-style: normal;
-    text-transform: uppercase;
+    text-transform:capitalize ;
     color: #979797;
     padding: 20px 0
 }
