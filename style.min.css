@@ -3342,7 +3342,7 @@ table.regular td a {
 
 #team-info {
     display: inline-block;
-    left: 505px;
+    left: 547px;
     position: absolute;
     top: 37px;
     height: 30px;
@@ -3378,6 +3378,22 @@ table.regular td a {
 .nav-links li a {
     display: block;
     line-height: 1.4
+}
+
+#goal {
+    display: inline-block;
+    left: 489px;
+    position: absolute;
+    top: 56px;
+    height: 30px;
+}
+
+#info {
+    display: inline-block;
+    left: 257px;
+    position: absolute;
+    top: 74px;
+    height: 30px;
 }
 
 #navigation .nav-links li a:after,
