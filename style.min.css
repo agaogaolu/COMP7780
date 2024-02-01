@@ -4334,14 +4334,13 @@ body.isDesktop #menu-navigation a:hover {
         transform: translate(-50%, -50%) translateY(-30px)
     }
     #logo {
-        left: 50%;
-        top: 50%;
-        width: 150px;
-        margin-top: -5px;
-        margin-left: 15px;
-        -webkit-transform: translate(-50%, -50%);
-        transform: translate(-50%, -50%);
-        z-index: 55
+        width: 210px;
+        height: auto;
+        display: inline-block;
+      }
+    .logo {
+    text-align: center;
+    margin-top: 10px;
     }
     .primary {
         display: block
