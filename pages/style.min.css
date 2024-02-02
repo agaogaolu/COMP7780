@@ -4146,9 +4146,9 @@ body.isDesktop #menu-navigation a:hover {
     #info {
         display: none;
     }
-    /* #goal {
+    #goal {
         display: none;
-    } */
+    }
     #positions {
         padding-top: 60px
     }
@@ -4675,7 +4675,11 @@ body.isDesktop #menu-navigation a:hover {
     }
     .background {
         background-position: center bottom;
-        height: 100vh
+        /* height: 100vh */
+    }
+    .background div {
+        top: 5%!important;
+        height: 90%!important;
     }
     #human-spaceflight #mission-earth .background {
         background-image: url(static/images/backgrounds/human_spaceflight_earth-mobile.jpg)
