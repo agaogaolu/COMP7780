@@ -6019,3 +6019,14 @@ h4 {
         margin-right: 15px
     }
 }
+
+@media screen and (min-width:960px) {
+    #footer {
+        white-space: normal;
+        /* display: inline-block  ; */
+    }
+    .group-member{
+        display: inline-block;
+    
+    }
+}

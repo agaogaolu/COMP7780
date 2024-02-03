@@ -2,7 +2,7 @@
   {
     "id": 151,
     "position": 1,
-    "title": "Model 3",
+    "title": "Model S",
     "subtitle": "",
     "link": "../pages/models.html",
     "linkInNewTab": false,
@@ -18,7 +18,7 @@
       "formats": {
         "large": {
           "ext": ".jpg",
-          "url": "https://digitalassets-secure.tesla.com/image/upload/f_auto,q_auto/jgfs8nfkrvackmukef7s.jpg",
+          "url": "https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Model-S-Desktop-LHD-6.22.jpg",
           "hash": "large_Axiom_3_pad40_DSC_2888_desktop_ec18672702",
           "mime": "image/jpeg",
           "name": "large_Axiom-3_pad40_DSC_2888_desktop.jpg",
@@ -29,7 +29,7 @@
         },
         "small": {
           "ext": ".jpg",
-          "url": "https://digitalassets-secure.tesla.com/image/upload/f_auto,q_auto/jgfs8nfkrvackmukef7s.jpg",
+          "url": "https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Model-S-Desktop-LHD-6.22.jpg",
           "hash": "small_Axiom_3_pad40_DSC_2888_desktop_ec18672702",
           "mime": "image/jpeg",
           "name": "small_Axiom-3_pad40_DSC_2888_desktop.jpg",
@@ -40,7 +40,7 @@
         },
         "medium": {
           "ext": ".jpg",
-          "url": "https://digitalassets-secure.tesla.com/image/upload/f_auto,q_auto/jgfs8nfkrvackmukef7s.jpg",
+          "url": "https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Model-S-Desktop-LHD-6.22.jpg",
           "hash": "medium_Axiom_3_pad40_DSC_2888_desktop_ec18672702",
           "mime": "image/jpeg",
           "name": "medium_Axiom-3_pad40_DSC_2888_desktop.jpg",
@@ -51,7 +51,7 @@
         },
         "thumbnail": {
           "ext": ".jpg",
-          "url": "https://digitalassets-secure.tesla.com/image/upload/f_auto,q_auto/jgfs8nfkrvackmukef7s.jpg",
+          "url": "https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Model-S-Desktop-LHD-6.22.jpg",
           "hash": "thumbnail_Axiom_3_pad40_DSC_2888_desktop_ec18672702",
           "mime": "image/jpeg",
           "name": "thumbnail_Axiom-3_pad40_DSC_2888_desktop.jpg",
@@ -65,7 +65,7 @@
       "ext": ".jpg",
       "mime": "image/jpeg",
       "size": 275.36,
-      "url": "https://digitalassets-secure.tesla.com/image/upload/f_auto,q_auto/jgfs8nfkrvackmukef7s.jpg",
+      "url": "https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Model-S-Desktop-LHD-6.22.jpg",
       "previewUrl": null,
       "provider": "strapi-provider-upload-azure-storage",
       "provider_metadata": null,
@@ -83,7 +83,7 @@
       "formats": {
         "large": {
           "ext": ".jpg",
-          "url": "https://digitalassets-secure.tesla.com/image/upload/f_auto,q_auto/jgfs8nfkrvackmukef7s.jpg",
+          "url": "https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Model-S-Desktop-LHD-6.22.jpg",
           "hash": "large_Axiom_3_pad40_DSC_2932_mobile_e6f7b6594b",
           "mime": "image/jpeg",
           "name": "large_Axiom-3_pad40_DSC_2932_mobile.jpg",
@@ -94,7 +94,7 @@
         },
         "small": {
           "ext": ".jpg",
-          "url": "https://digitalassets-secure.tesla.com/image/upload/f_auto,q_auto/jgfs8nfkrvackmukef7s.jpg",
+          "url": "https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Model-S-Desktop-LHD-6.22.jpg",
           "hash": "small_Axiom_3_pad40_DSC_2932_mobile_e6f7b6594b",
           "mime": "image/jpeg",
           "name": "small_Axiom-3_pad40_DSC_2932_mobile.jpg",
@@ -105,7 +105,7 @@
         },
         "medium": {
           "ext": ".jpg",
-          "url": "https://digitalassets-secure.tesla.com/image/upload/f_auto,q_auto/jgfs8nfkrvackmukef7s.jpg",
+          "url": "https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Model-S-Desktop-LHD-6.22.jpg",
           "hash": "medium_Axiom_3_pad40_DSC_2932_mobile_e6f7b6594b",
           "mime": "image/jpeg",
           "name": "medium_Axiom-3_pad40_DSC_2932_mobile.jpg",
@@ -116,7 +116,7 @@
         },
         "thumbnail": {
           "ext": ".jpg",
-          "url": "https://digitalassets-secure.tesla.com/image/upload/f_auto,q_auto/jgfs8nfkrvackmukef7s.jpg",
+          "url": "https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Model-S-Desktop-LHD-6.22.jpg",
           "hash": "thumbnail_Axiom_3_pad40_DSC_2932_mobile_e6f7b6594b",
           "mime": "image/jpeg",
           "name": "thumbnail_Axiom-3_pad40_DSC_2932_mobile.jpg",
@@ -130,7 +130,7 @@
       "ext": ".jpg",
       "mime": "image/jpeg",
       "size": 47.37,
-      "url": "https://digitalassets-secure.tesla.com/image/upload/f_auto,q_auto/jgfs8nfkrvackmukef7s.jpg",
+      "url": "https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Model-S-Desktop-LHD-6.22.jpg",
       "previewUrl": null,
       "provider": "strapi-provider-upload-azure-storage",
       "provider_metadata": null,
