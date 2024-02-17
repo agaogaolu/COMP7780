@@ -4,7 +4,7 @@
     "position": 1,
     "title": "Model S",
     "subtitle": "",
-    "link": "../pages/models.html",
+    "link": "/pages/models.html",
     "linkInNewTab": false,
     "callToAction": "Shop Now",
     "alignContent": "left",
